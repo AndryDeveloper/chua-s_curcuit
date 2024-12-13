@@ -12,3 +12,5 @@ env/
 *.vscode
 __pycache__/
 .idea/
+*.fls
+*.fdb_latexmk
